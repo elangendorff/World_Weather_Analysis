@@ -1,0 +1,191 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+0,Salaga,GH,80.42,overcast clouds,8.5508,-0.5188,need g_key
+1,Gizo,SB,83.8,few clouds,-8.103,156.8419,need g_key
+3,Rikitea,PF,77.13,scattered clouds,-23.1203,-134.9692,need g_key
+4,Shasta Lake,US,88.52,overcast clouds,40.6804,-122.3708,need g_key
+16,Kununurra,AU,89.58,clear sky,-15.7667,128.7333,need g_key
+19,Yeppoon,AU,78.58,scattered clouds,-23.1333,150.7333,need g_key
+20,Atar,MR,88.7,overcast clouds,20.5169,-13.0499,need g_key
+23,Georgetown,MY,80.53,few clouds,5.4112,100.3354,need g_key
+24,Avarua,CK,78.85,broken clouds,-21.2078,-159.775,need g_key
+26,Cockburn Town,TC,78.89,overcast clouds,21.4612,-71.1419,need g_key
+28,San Andres,CO,80.62,broken clouds,12.5847,-81.7006,need g_key
+30,Atuona,PF,78.73,clear sky,-9.8,-139.0333,need g_key
+32,Butaritari,KI,81.91,scattered clouds,3.0707,172.7902,need g_key
+40,Tagusao,PH,85.5,overcast clouds,9.1924,117.8141,need g_key
+41,Kalmunai,LK,81.95,broken clouds,7.4167,81.8167,need g_key
+43,Ocos,GT,86.18,overcast clouds,14.5094,-92.1933,need g_key
+45,Vaini,TO,77.16,scattered clouds,-21.2,-175.2,need g_key
+46,Pochutla,MX,84.81,overcast clouds,15.7432,-96.4661,need g_key
+48,Mersing,MY,80.51,scattered clouds,2.4312,103.8405,need g_key
+50,Gatesville,US,91.35,clear sky,31.4352,-97.7439,need g_key
+52,Tayu,ID,85.1,overcast clouds,-6.5397,111.0518,need g_key
+59,Cabo San Lucas,MX,87.19,overcast clouds,22.8909,-109.9124,need g_key
+60,Safaga,EG,78.94,overcast clouds,26.7292,33.9365,need g_key
+61,Kapaa,US,80.92,clear sky,22.0752,-159.319,need g_key
+62,Itarema,BR,76.15,broken clouds,-2.9248,-39.9167,need g_key
+68,Meulaboh,ID,79.92,overcast clouds,4.1363,96.1285,need g_key
+69,Hilo,US,82.27,broken clouds,19.7297,-155.09,need g_key
+74,Sao Filipe,CV,75.13,overcast clouds,14.8961,-24.4956,need g_key
+75,Saint George,US,93.79,clear sky,37.1041,-113.5841,need g_key
+77,Nuevo Progreso,MX,79.54,clear sky,23.1667,-97.95,need g_key
+81,Isangel,VU,79.23,scattered clouds,-19.55,169.2667,need g_key
+84,Port Blair,IN,84.81,overcast clouds,11.6667,92.75,need g_key
+87,Taoudenni,ML,88.23,broken clouds,22.6783,-3.9836,need g_key
+96,Dagana,MR,89.65,scattered clouds,16.5165,-15.5068,need g_key
+97,Ixtapa,MX,79.83,few clouds,20.7,-105.2,need g_key
+109,Lafiagi,NG,76.86,overcast clouds,8.8667,5.4167,need g_key
+110,Sinnamary,GF,78.17,light rain,5.3833,-52.95,need g_key
+118,Faanui,PF,80.78,few clouds,-16.4833,-151.75,need g_key
+120,Trenggalek,ID,83.28,broken clouds,-8.05,111.7167,need g_key
+130,Poum,NC,78.49,broken clouds,-20.2333,164.0167,need g_key
+143,Alofi,NU,80.49,few clouds,-19.0595,-169.9187,need g_key
+144,Sayat,TM,75.56,clear sky,38.7839,63.8803,need g_key
+145,Praya,CV,81.14,clear sky,14.9215,-23.5087,need g_key
+148,Mbini,GQ,76.84,light rain,1.574,9.6134,need g_key
+150,Brownsville,US,82.4,clear sky,25.9018,-97.4975,need g_key
+157,Kingston,JM,81.55,scattered clouds,17.997,-76.7936,need g_key
+158,Orange Walk,BZ,76.6,few clouds,17.8333,-88.8333,need g_key
+181,Tautira,PF,81.3,overcast clouds,-17.7333,-149.15,need g_key
+182,Laguna,US,87.46,clear sky,38.421,-121.4238,need g_key
+191,Nhulunbuy,AU,84.81,few clouds,-12.2333,136.7667,need g_key
+192,Meiktila,MM,86.83,few clouds,20.8667,95.8667,need g_key
+193,Kavieng,PG,83.64,overcast clouds,-2.5744,150.7967,need g_key
+195,Labuhan,ID,83.75,broken clouds,-6.8844,112.2051,need g_key
+196,Hithadhoo,MV,82.96,overcast clouds,-0.6,73.0833,need g_key
+197,Kahului,US,87.82,few clouds,20.8947,-156.47,need g_key
+200,Lorengau,PG,84.9,broken clouds,-2.0226,147.2712,need g_key
+201,Batticaloa,LK,82.0,scattered clouds,7.7102,81.6924,need g_key
+206,Cayenne,GF,82.09,light rain,4.9333,-52.3333,need g_key
+209,Noumea,NC,79.0,scattered clouds,-22.2763,166.4572,need g_key
+210,Pekan,MY,80.71,broken clouds,3.4836,103.3996,need g_key
+213,Tirumullaivasal,IN,82.47,heavy intensity rain,11.2333,79.8333,need g_key
+215,Dajal,PK,86.99,clear sky,29.5577,70.3762,need g_key
+227,Bengkulu,ID,79.11,broken clouds,-3.8004,102.2655,need g_key
+232,Vila Velha,BR,75.15,broken clouds,-20.3297,-40.2925,need g_key
+234,Tondano,ID,80.69,scattered clouds,1.3038,124.9112,need g_key
+236,Namatanai,PG,85.1,overcast clouds,-3.6667,152.4333,need g_key
+239,Puerto Ayacucho,VE,79.0,overcast clouds,5.6639,-67.6236,need g_key
+241,Una,IN,82.81,clear sky,20.8167,71.0333,need g_key
+242,Kloulklubed,PW,83.39,few clouds,7.0419,134.2556,need g_key
+249,George Town,MY,82.33,few clouds,5.4112,100.3354,need g_key
+253,Salalah,OM,77.63,clear sky,17.0151,54.0924,need g_key
+254,Senador Jose Porfirio,BR,75.56,overcast clouds,-2.5908,-51.9542,need g_key
+261,Nouakchott,MR,82.33,overcast clouds,18.0858,-15.9785,need g_key
+265,Point Pedro,LK,84.72,overcast clouds,9.8167,80.2333,need g_key
+271,Bundaberg,AU,82.22,clear sky,-24.85,152.35,need g_key
+279,Wewak,PG,82.89,overcast clouds,-3.5534,143.6268,need g_key
+284,Las Cruces,US,93.96,clear sky,32.3123,-106.7783,need g_key
+290,Kudahuvadhoo,MV,83.57,overcast clouds,2.6708,72.8944,need g_key
+291,Kudat,MY,87.73,few clouds,6.8837,116.8477,need g_key
+297,Kavaratti,IN,79.97,overcast clouds,10.5669,72.642,need g_key
+299,Bonfim,BR,78.35,overcast clouds,3.0833,-59.95,need g_key
+300,Mount Isa,AU,80.37,clear sky,-20.7333,139.5,need g_key
+303,Oistins,BB,80.69,scattered clouds,13.0667,-59.5333,need g_key
+304,Mabaruma,GY,75.47,overcast clouds,8.2,-59.7833,need g_key
+305,Sao Jose Da Coroa Grande,BR,78.01,overcast clouds,-8.8978,-35.1478,need g_key
+313,Aden,YE,86.07,clear sky,12.7794,45.0367,need g_key
+315,Sibolga,ID,77.76,overcast clouds,1.7427,98.7792,need g_key
+319,La Romana,DO,77.36,broken clouds,18.4273,-68.9728,need g_key
+322,Minab,IR,93.52,clear sky,27.1467,57.0801,need g_key
+324,Acarau,BR,76.82,scattered clouds,-2.8856,-40.12,need g_key
+326,Bandarbeyla,SO,81.72,overcast clouds,9.4942,50.8122,need g_key
+328,Omboue,GA,77.67,overcast clouds,-1.5746,9.2618,need g_key
+333,Lethem,GY,78.78,overcast clouds,3.3803,-59.7968,need g_key
+334,San Patricio,US,82.18,clear sky,28.017,-97.5169,need g_key
+336,San Antonio,US,91.51,clear sky,29.4241,-98.4936,need g_key
+341,Nakhon Phanom,TH,75.0,light rain,17.3333,104.4167,need g_key
+346,Umm Lajj,SA,82.27,clear sky,25.0213,37.2685,need g_key
+347,Cururupu,BR,76.15,overcast clouds,-1.8283,-44.8683,need g_key
+352,Mecca,SA,90.14,clear sky,21.4267,39.8261,need g_key
+360,Tessalit,ML,86.07,clear sky,20.1986,1.0114,need g_key
+363,Mingaora,PK,79.97,overcast clouds,34.7758,72.3625,need g_key
+368,Akyab,MM,85.91,clear sky,20.15,92.9,need g_key
+381,Touros,BR,76.8,overcast clouds,-5.1989,-35.4608,need g_key
+396,Cayce,US,76.51,overcast clouds,33.9657,-81.074,need g_key
+401,Auki,SB,84.67,few clouds,-8.7676,160.7034,need g_key
+402,Ballina,AU,80.78,few clouds,-28.8667,153.5667,need g_key
+404,Sola,VU,80.55,overcast clouds,-13.8833,167.55,need g_key
+405,Tura,IN,77.29,overcast clouds,25.5198,90.2201,need g_key
+413,Sulangan,PH,83.5,overcast clouds,11.1373,123.7228,need g_key
+415,Deogarh,IN,87.39,broken clouds,21.5333,84.7333,need g_key
+416,Ada,US,79.95,clear sky,43.4166,-116.1262,need g_key
+420,Cedar City,US,77.4,overcast clouds,37.6775,-113.0619,need g_key
+423,Makakilo City,US,78.69,light intensity drizzle,21.3469,-158.0858,need g_key
+430,Gilbues,BR,77.72,overcast clouds,-9.8317,-45.3439,need g_key
+432,Porto Novo,BJ,82.22,overcast clouds,6.4965,2.6036,need g_key
+434,Hervey Bay,AU,77.27,clear sky,-25.2986,152.8535,need g_key
+443,Acapulco,MX,82.69,scattered clouds,16.8634,-99.8901,need g_key
+447,Serabu,SL,77.83,overcast clouds,7.7958,-12.0536,need g_key
+452,Khed,IN,84.6,overcast clouds,17.7167,73.3833,need g_key
+459,Lobito,AO,75.56,broken clouds,-12.3481,13.5456,need g_key
+460,Hansot,IN,85.82,clear sky,21.5833,72.8,need g_key
+462,Rajura,IN,92.07,scattered clouds,19.7833,79.3667,need g_key
+464,Ugoofaaru,MV,81.99,overcast clouds,5.6667,73.0,need g_key
+466,Solana Beach,US,79.54,scattered clouds,32.9912,-117.2711,need g_key
+469,Am Timan,TD,80.13,overcast clouds,11.0297,20.2827,need g_key
+472,Honiara,SB,85.51,few clouds,-9.4333,159.95,need g_key
+474,Adrar,MR,84.25,few clouds,20.5022,-10.0711,need g_key
+479,Champerico,GT,84.72,overcast clouds,14.3,-91.9167,need g_key
+490,Cabedelo,BR,77.61,overcast clouds,-6.9811,-34.8339,need g_key
+492,Ures,MX,89.15,overcast clouds,29.4333,-110.4,need g_key
+493,Luis Correia,BR,77.99,overcast clouds,-2.8792,-41.6669,need g_key
+496,Tefe,BR,75.0,heavy intensity rain,-3.3542,-64.7114,need g_key
+498,Pokhara,NP,78.46,few clouds,28.2333,83.9833,need g_key
+503,Bacolod,PH,85.44,overcast clouds,10.6667,122.95,need g_key
+506,Dzilam Gonzalez,MX,75.31,clear sky,21.2833,-88.9333,need g_key
+517,Dalby,AU,77.99,clear sky,-27.1833,151.2667,need g_key
+519,Aswan,EG,82.24,overcast clouds,24.0934,32.907,need g_key
+520,Katherine,AU,89.92,clear sky,-14.4667,132.2667,need g_key
+522,Eyl,SO,82.26,clear sky,7.9803,49.8164,need g_key
+523,Mtambile,TZ,78.03,light rain,-5.3833,39.7,need g_key
+530,Mana,GF,77.92,moderate rain,5.6592,-53.7767,need g_key
+539,Padang,ID,80.65,broken clouds,-0.9492,100.3543,need g_key
+541,Jizan,SA,81.91,clear sky,17.3333,42.6667,need g_key
+542,Fallon,US,79.45,overcast clouds,39.4735,-118.7774,need g_key
+544,Harper,LR,78.04,moderate rain,4.375,-7.7169,need g_key
+552,Sorong,ID,84.97,overcast clouds,-0.8833,131.25,need g_key
+553,Kingaroy,AU,79.5,clear sky,-26.5333,151.8333,need g_key
+555,Kirakira,SB,83.93,scattered clouds,-10.4544,161.9205,need g_key
+556,Canto Do Buriti,BR,76.05,overcast clouds,-8.11,-42.9444,need g_key
+559,Gopalpur,IN,85.57,clear sky,19.2667,84.9167,need g_key
+560,Kollo,NE,90.46,broken clouds,13.3043,2.339,need g_key
+561,Tabou,CI,78.78,light rain,4.423,-7.3528,need g_key
+571,Buraydah,SA,80.76,clear sky,26.326,43.975,need g_key
+572,Roebourne,AU,80.78,clear sky,-20.7833,117.1333,need g_key
+573,Hambantota,LK,79.14,few clouds,6.1241,81.1185,need g_key
+575,Shouguang,CN,78.8,clear sky,36.88,118.7375,need g_key
+578,Bonthe,SL,80.71,overcast clouds,7.5264,-12.505,need g_key
+580,Trairi,BR,76.48,overcast clouds,-3.2778,-39.2689,need g_key
+587,Razole,IN,87.55,clear sky,16.4833,81.8333,need g_key
+590,Dingle,PH,86.52,overcast clouds,10.9995,122.6711,need g_key
+592,Manadhoo,MV,79.74,light rain,5.7667,73.3833,need g_key
+601,Durango,MX,76.69,broken clouds,24.8333,-104.8333,need g_key
+602,Lufilufi,WS,83.79,light rain,-13.8745,-171.5986,need g_key
+605,Dicabisagan,PH,88.27,overcast clouds,17.0818,122.4157,need g_key
+607,Dwarka,IN,83.37,clear sky,22.2394,68.9678,need g_key
+608,Bathsheba,BB,81.21,scattered clouds,13.2167,-59.5167,need g_key
+616,Sonoita,MX,89.85,clear sky,31.85,-112.8333,need g_key
+617,Port-Gentil,GA,80.33,light rain,-0.7193,8.7815,need g_key
+627,Bourail,NC,80.38,overcast clouds,-21.5667,165.4833,need g_key
+633,Unguia,CO,77.0,overcast clouds,8.0434,-77.0945,need g_key
+641,Bowen,AU,81.01,clear sky,-20.0167,148.2333,need g_key
+642,Sur,OM,83.41,clear sky,22.5667,59.5289,need g_key
+643,Naica,MX,87.58,overcast clouds,27.85,-105.4833,need g_key
+654,San Clemente,US,79.25,few clouds,33.427,-117.612,need g_key
+655,Pontian Kecil,MY,84.87,broken clouds,1.4801,103.3899,need g_key
+658,Charters Towers,AU,79.66,clear sky,-20.1,146.2667,need g_key
+664,Sa Kaeo,TH,86.68,overcast clouds,13.75,102.3333,need g_key
+666,Baragaon,IN,87.78,haze,25.4333,82.8167,need g_key
+667,Kinablangan,PH,83.59,overcast clouds,7.6947,126.5503,need g_key
+670,Dickinson,US,83.12,clear sky,29.4608,-95.0513,need g_key
+672,Khipro,PK,85.06,clear sky,25.8285,69.3772,need g_key
+673,Dosso,NE,92.08,overcast clouds,13.049,3.1937,need g_key
+674,Karratha,AU,81.14,few clouds,-20.7377,116.8463,need g_key
+678,Yanam,IN,87.64,clear sky,16.7333,82.2167,need g_key
+682,Cairns,AU,86.11,clear sky,-16.9167,145.7667,need g_key
+685,Saint Pete Beach,US,78.17,few clouds,27.7253,-82.7412,need g_key
+687,Fare,PF,81.57,scattered clouds,-16.7,-151.0167,need g_key
+689,Belmonte,BR,75.25,overcast clouds,-15.8631,-38.8828,need g_key
+692,Islamabad,PK,86.85,overcast clouds,33.7104,73.1338,need g_key
+693,Dakar,SN,77.88,overcast clouds,14.6937,-17.4441,need g_key
